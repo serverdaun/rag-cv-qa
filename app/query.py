@@ -1,7 +1,7 @@
 from langchain_community.vectorstores import FAISS
 from langchain.chains import RetrievalQA
-from embeddins import get_embeddings_model
-from hf_llm import HuggingFaceLLM
+from app.embeddings import get_embeddings_model
+from app.hf_llm import HuggingFaceLLM
 
 
 # Initialize custom Hugging Face LLM suitable for RAG pipeline

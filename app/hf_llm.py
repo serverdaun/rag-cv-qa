@@ -1,7 +1,7 @@
 from huggingface_hub import InferenceClient
 from langchain.llms.base import LLM
 from typing import List
-from config import HF_API_KEY, LLM_MODEL, LLM_PROVIDER, SYSTEM_PROMPT
+from app.config import HF_API_KEY, LLM_MODEL, LLM_PROVIDER, SYSTEM_PROMPT
 
 client = InferenceClient(
     model=LLM_MODEL,

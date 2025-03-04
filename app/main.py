@@ -1,6 +1,6 @@
 import uvicorn
 from fastapi import FastAPI
-from query import rag_query
+from app.query import rag_query
 
 app = FastAPI()
 
