@@ -1,0 +1,79 @@
+Vasilii Tokarev
+Data Scientist / ML Engineer - Junior
+Data enthusiast with a background in data analytics, process automation, and machine 
+learning. Experienced in leveraging SQL, Python, and advanced analytical techniques 
+to provide actionable business insights at Ernst & Young. Previous experience in 
+procurement at VEMZU enhanced my analytical and communication skills.
+
+Experience:
+
+September 2023  now 
+Data Analyst
+Ernst & Young, s.r.o.
+Performed analytics on data from various ERP systems using SQL and Python
+Participated in the agile development of a data analytics module for a web 
+application used in internal audits
+Developed machine learning algorithms for clustering and classification tasks 
+Participated in the development of a tool for interpreting data analytics results 
+using Azure OpenAI 
+Developed Python applications to automate both internal team and client 
+processes 
+Developed API integrations to connect BI and auditing software 
+Interpreted and presented results from data analysis for actionable insights 
+
+December 2022 – September 2023 
+Buyer
+VEMZU Czech Republic, s.r.o.
+Communicated with suppliers across Europe 
+Created purchase orders 
+Analysed performance of brand and product categories 
+Collaborated closely with the CEO, CFO, and head of marketing 
+Contributed to company strategy development 
+Prepared internal analysis reports 
+
+Tech Stack:
+Python
+scikit-learn, pytorch, pandas, 
+numpy, pyspark, flask, selenium,
+SQL 
+Git 
+Docker 
+Microsoft Azure 
+Azure OpenAI 
+Snowflake 
+Databricks 
+Apache Airflow 
+Power BI
+Tableau
+
+Languages:
+Czech (C1/C2) 
+English (C1) 
+Deutsch (A1) 
+Russian (C2)
+
+Education and Certifications:
+2024
+Machine Learning Practitioner
+Databricks Academy
+2024
+Data Science Bronze Badge
+Ernst & Young
+2022-2023
+Data Scientist Junior
+Skillbox
+2018-2022
+Business Economics and Management
+High School of Economics in Prague
+2025
+Machine Learning with Apache Spark
+IBM
+2024
+Microsoft Certified: Azure Fundamentals
+Microsoft
+
+Contact:
+vasiliitokarev.ds@gmail.com 
++420 776 003 226
+linkedin.com/vasilii-tokarev-ds
+github.com/serverdaun
