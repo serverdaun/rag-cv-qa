@@ -25,6 +25,5 @@ rag_chain = RetrievalQA.from_chain_type(
 )
 
 def rag_query(question: str):
-    """Query the RAG pipeline using invoke() instead of run()"""
     response = rag_chain.invoke({"query": question})
     return response.get("result")
